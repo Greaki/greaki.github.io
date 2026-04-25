@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://baojinjin.gitee.io/sitemap.xml
+Sitemap: https://greaki.github.io/sitemap.xml
