@@ -1,1 +1,1 @@
-[{"title":"博客的迁移","link":"/post/1/","date":"2026-04-25","content":"准备把我的碎碎念从 nuxt 迁移到 gridea-pro ,反正也没啥事情"}]
+[{"title":"博客的迁移","link":"/post/migrate-blog/","date":"2026-04-25","content":"准备把我的碎碎念从 nuxt 迁移到 gridea-pro ,反正也没啥事情。 一个人的轨迹真的好渺小的，我穷尽一生所能留下来的，可能也不过1kb。 言归正传， 使用 gridea pro 的同步有点不太好使，我推荐直接 cd ~\\Documents\\Gridea Pro\\output git push"}]
